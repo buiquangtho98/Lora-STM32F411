@@ -1,0 +1,4 @@
+../Core/Src/ESPDataLogger.c:13:6:bufclr	2
+../Core/Src/ESPDataLogger.c:19:6:ESP_Init	5
+../Core/Src/ESPDataLogger.c:60:6:ESP_Send_Data	5
+../Core/Src/ESPDataLogger.c:91:6:ESP_Send_Multi	6
